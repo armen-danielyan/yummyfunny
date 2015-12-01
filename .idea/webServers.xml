@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8deb70b5-d2a9-4ce9-9500-2a627a54d61a" name="yummyfunny" url="http://yummyfunny.com">
+        <fileTransfer host="ftp.yummyfunny.com" port="21" password="dff3dfcfdf9ddf92df92df9edfc0df93dfea" username="yummyfunny">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
